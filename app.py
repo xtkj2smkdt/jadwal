@@ -1,6 +1,6 @@
 db_init.py
 
-Jalankan sekali untuk membuat database contoh dan user awal.
+#Jalankan sekali untuk membuat database contoh dan user awal.
 
 import sqlite3
 import hashlib
